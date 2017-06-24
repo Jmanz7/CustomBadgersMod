@@ -1,6 +1,6 @@
 package jmanz7.CustomBadgesMod;
  
-
+//
 import jmanz7.CustomBadgesMod.init.ModItems;
 import jmanz7.CustomBadgesMod.proxy.CommonProxy;
 import net.minecraftforge.fml.common.Mod;

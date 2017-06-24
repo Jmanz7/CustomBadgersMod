@@ -10,6 +10,7 @@ public class Reference
 	public static final String SERVER_PROXY_CLASS = "jmanz7.CustomBadgesMod.proxy.ServerProxy";		
 			
 	
+	//
 	
 	public static enum CBPItems
     {

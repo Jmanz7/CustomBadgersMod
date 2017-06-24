@@ -10,7 +10,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class ModItems 
 {
 	public static Item badge1;
-	public static Item badge2;
+	//public static Item badge2;
 	//public static Item badge3;
 	//public static Item badge4;
 	//public static Item badge5;
