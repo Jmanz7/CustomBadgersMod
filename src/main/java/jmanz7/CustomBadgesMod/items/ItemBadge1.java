@@ -8,7 +8,7 @@ public class ItemBadge1 extends Item
 {
 	public ItemBadge1() 
 	{
-		setUnlocalizedName(Reference.CBPItems.SIMPLE.getUnlocalizedName());
-		setRegistryName(Reference.CBPItems.SIMPLE.getRegisteryName());
+		setUnlocalizedName(Reference.CBItems.SIMPLE.getUnlocalizedName());
+		setRegistryName(Reference.CBItems.SIMPLE.getRegisteryName());
 	}
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "builtin/generated",
+    "parent": "item/generated",
     "textures": {
-        "layer0": "cpb:items/SimpleBadge"
+        "layer0": "cb:items/badge1"
     },
     "display": {
         "thirdperson": {
@@ -15,4 +15,4 @@
             "scale": [1.7,1.7,1.7]
         }
     }
-}﻿
+}
